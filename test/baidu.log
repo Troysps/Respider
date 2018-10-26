@@ -1,0 +1,137 @@
+2018-07-26 18:22:48 engine.py [line:36] INFO: Start time : 2018-07-26 18:22:48.352000
+2018-07-26 18:22:48 engine.py [line:41] INFO: End time : 2018-07-26 18:22:48.572000
+2018-07-26 18:22:48 engine.py [line:44] INFO: Useing time : 0.22
+2018-07-28 15:04:44 engine.py [line:37] INFO: Start time : 2018-07-28 15:04:44.406000
+2018-07-28 15:04:46 engine.py [line:42] INFO: End time : 2018-07-28 15:04:46.028000
+2018-07-28 15:04:46 engine.py [line:45] INFO: Useing time : 1.622
+2018-07-28 15:10:23 engine.py [line:37] INFO: Start time : 2018-07-28 15:10:23.260000
+2018-07-28 15:10:25 engine.py [line:42] INFO: End time : 2018-07-28 15:10:25.722000
+2018-07-28 15:10:25 engine.py [line:45] INFO: Useing time : 2.462
+2018-07-28 15:16:23 engine.py [line:37] INFO: Start time : 2018-07-28 15:16:23.867000
+2018-07-28 15:16:26 engine.py [line:42] INFO: End time : 2018-07-28 15:16:26.282000
+2018-07-28 15:16:26 engine.py [line:45] INFO: Useing time : 2.415
+2018-07-28 15:16:26 engine.py [line:37] INFO: Start time : 2018-07-28 15:16:26.283000
+2018-07-28 15:16:28 engine.py [line:42] INFO: End time : 2018-07-28 15:16:28.852000
+2018-07-28 15:16:28 engine.py [line:45] INFO: Useing time : 2.569
+2018-07-28 15:17:12 engine.py [line:37] INFO: Start time : 2018-07-28 15:17:12.323000
+2018-07-28 15:17:15 engine.py [line:42] INFO: End time : 2018-07-28 15:17:15.458000
+2018-07-28 15:17:15 engine.py [line:45] INFO: Useing time : 3.135
+2018-07-28 15:17:15 engine.py [line:37] INFO: Start time : 2018-07-28 15:17:15.472000
+2018-07-28 15:17:19 engine.py [line:42] INFO: End time : 2018-07-28 15:17:19.572000
+2018-07-28 15:17:19 engine.py [line:45] INFO: Useing time : 4.1
+2018-07-28 15:19:43 engine.py [line:38] INFO: Start time : 2018-07-28 15:19:43.856000
+2018-07-28 15:26:20 engine.py [line:38] INFO: Start time : 2018-07-28 15:26:20.125000
+2018-07-28 15:26:28 engine.py [line:43] INFO: End time : 2018-07-28 15:26:28.011000
+2018-07-28 15:26:28 engine.py [line:46] INFO: Useing time : 7.886
+2018-07-28 15:43:59 engine.py [line:38] INFO: Start time : 2018-07-28 15:43:59.136000
+2018-07-28 15:44:27 engine.py [line:38] INFO: Start time : 2018-07-28 15:44:27.310000
+2018-07-28 15:44:29 engine.py [line:43] INFO: End time : 2018-07-28 15:44:29.147000
+2018-07-28 15:44:29 engine.py [line:46] INFO: Useing time : 1.837
+2018-07-28 16:04:31 engine.py [line:38] INFO: Start time : 2018-07-28 16:04:31.138000
+2018-07-28 16:04:32 engine.py [line:43] INFO: End time : 2018-07-28 16:04:32.848000
+2018-07-28 16:04:32 engine.py [line:46] INFO: Useing time : 1.71
+2018-07-28 16:06:02 engine.py [line:38] INFO: Start time : 2018-07-28 16:06:02.222000
+2018-07-28 16:06:03 engine.py [line:43] INFO: End time : 2018-07-28 16:06:03.679000
+2018-07-28 16:06:03 engine.py [line:46] INFO: Useing time : 1.457
+2018-07-28 16:06:44 engine.py [line:38] INFO: Start time : 2018-07-28 16:06:44.191000
+2018-07-28 16:06:45 engine.py [line:43] INFO: End time : 2018-07-28 16:06:45.608000
+2018-07-28 16:06:45 engine.py [line:46] INFO: Useing time : 1.417
+2018-07-28 16:22:12 engine.py [line:38] INFO: Start time : 2018-07-28 16:22:12.247000
+2018-07-28 16:23:22 engine.py [line:38] INFO: Start time : 2018-07-28 16:23:22.032000
+2018-07-28 16:25:45 engine.py [line:38] INFO: Start time : 2018-07-28 16:25:45.246000
+2018-07-28 16:27:45 engine.py [line:38] INFO: Start time : 2018-07-28 16:27:45.707000
+2018-07-28 16:28:59 engine.py [line:38] INFO: Start time : 2018-07-28 16:28:59.426000
+2018-07-28 16:43:20 engine.py [line:38] INFO: Start time : 2018-07-28 16:43:20.242000
+2018-07-28 17:00:05 engine.py [line:38] INFO: Start time : 2018-07-28 17:00:05.118000
+2018-07-28 17:00:14 engine.py [line:43] INFO: End time : 2018-07-28 17:00:14.425000
+2018-07-28 17:00:14 engine.py [line:46] INFO: Useing time : 9.307
+2018-07-28 17:48:42 engine.py [line:70] INFO: Start time : 2018-07-28 17:48:42.288000
+2018-07-28 17:48:49 engine.py [line:75] INFO: End time : 2018-07-28 17:48:49.037000
+2018-07-28 17:48:49 engine.py [line:78] INFO: Useing time : 6.749
+2018-07-28 18:34:24 engine.py [line:70] INFO: Start time : 2018-07-28 18:34:24.543000
+2018-07-28 18:34:30 engine.py [line:75] INFO: End time : 2018-07-28 18:34:30.894000
+2018-07-28 18:34:30 engine.py [line:78] INFO: Useing time : 6.351
+2018-07-28 18:36:45 engine.py [line:70] INFO: Start time : 2018-07-28 18:36:45.012000
+2018-07-28 18:36:45 scheduler.py [line:44] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-07-28 18:36:54 engine.py [line:75] INFO: End time : 2018-07-28 18:36:54.342000
+2018-07-28 18:36:54 engine.py [line:78] INFO: Useing time : 9.33
+2018-08-01 19:53:38 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 19:54:49 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:01:24 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:04:05 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:05:05 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:05:05 engine.py [line:69] INFO: Start time : 1533125105.6997721
+2018-08-01 20:08:30 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:08:30 engine.py [line:69] INFO: Start time : 1533125310.3262672
+2018-08-01 20:10:02 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:10:02 engine.py [line:69] INFO: Start time : 1533125402.145983
+2018-08-01 20:10:45 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:10:45 engine.py [line:69] INFO: Start time : 1533125445.3947272
+2018-08-01 20:12:59 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:12:59 engine.py [line:72] INFO: Start time : 1533125579.7454543
+2018-08-01 20:16:12 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:16:12 engine.py [line:79] INFO: Start time : 1533125772.3177671
+2018-08-01 20:21:33 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:21:33 engine.py [line:79] INFO: Start time : 1533126093.6103055
+2018-08-01 20:21:33 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:27:55 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:27:55 engine.py [line:79] INFO: Start time : 1533126475.5628703
+2018-08-01 20:27:55 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:28:00 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:28:00 engine.py [line:79] INFO: Start time : 1533126480.5295296
+2018-08-01 20:28:00 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:29:40 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:29:40 engine.py [line:79] INFO: Start time : 1533126580.3539948
+2018-08-01 20:29:40 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:30:44 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:30:44 engine.py [line:79] INFO: Start time : 1533126644.8049407
+2018-08-01 20:30:44 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:32:12 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:32:12 engine.py [line:79] INFO: Start time : 1533126732.8929307
+2018-08-01 20:32:12 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:33:01 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:33:01 engine.py [line:79] INFO: Start time : 1533126781.128874
+2018-08-01 20:33:01 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:33:20 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:33:20 engine.py [line:79] INFO: Start time : 1533126800.3933568
+2018-08-01 20:33:20 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:34:23 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:34:23 engine.py [line:79] INFO: Start time : 1533126863.0473847
+2018-08-01 20:34:23 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:40:51 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:40:51 engine.py [line:79] INFO: Start time : 1533127251.8703725
+2018-08-01 20:40:51 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:43:14 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:43:14 engine.py [line:79] INFO: Start time : 1533127394.3460312
+2018-08-01 20:43:14 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:46:16 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:46:16 engine.py [line:79] INFO: Start time : 1533127576.2249522
+2018-08-01 20:46:16 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:46:58 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:46:58 engine.py [line:79] INFO: Start time : 1533127618.6579492
+2018-08-01 20:46:58 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:50:12 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:50:12 engine.py [line:79] INFO: Start time : 1533127812.026967
+2018-08-01 20:50:12 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:51:17 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:51:17 engine.py [line:79] INFO: Start time : 1533127877.0226507
+2018-08-01 20:51:17 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:53:09 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:53:09 engine.py [line:79] INFO: Start time : 1533127989.9443755
+2018-08-01 20:53:09 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 20:54:50 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 20:54:50 engine.py [line:79] INFO: Start time : 1533128090.928333
+2018-08-01 20:54:50 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 21:03:15 engine.py [line:22] INFO: [Async type] : <coroutine>
+2018-08-01 21:03:15 engine.py [line:79] INFO: Start time : 1533128595.637496
+2018-08-01 21:03:15 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 21:05:49 engine.py [line:11] INFO: [Async type] : <coroutine>
+2018-08-01 21:05:49 engine.py [line:80] INFO: Start time : 1533128749.0592456
+2018-08-01 21:05:49 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 21:05:50 engine.py [line:84] INFO: End time : 1533128750.7460308
+2018-08-01 21:05:50 engine.py [line:86] INFO: Used time : 1.6867852210998535 seconds
+2018-08-01 21:07:49 engine.py [line:11] INFO: [Async type] : <coroutine>
+2018-08-01 21:07:49 engine.py [line:80] INFO: Start time : 1533128869.5818202
+2018-08-01 21:07:49 schedule.py [line:48] INFO: Filter Request [GET] <http://www.baidu.com>
+2018-08-01 21:07:51 engine.py [line:84] INFO: End time : 1533128871.1819332
+2018-08-01 21:07:51 engine.py [line:86] INFO: Used time : 1.6001129150390625 seconds
